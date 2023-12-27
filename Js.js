@@ -15,12 +15,12 @@ console.log(fruits)
 //OUTPUT OF ASSIGNMENT 1 :['banana', 'Pear', 'grape'] 0:'banana' 1:'Pear' 2:'grape'
 
 //-------------------Assignment 2 -------------
+let person = { }
 
-let person = {
-    name: "John",
-    age: "30",
-    city: "New York",
-}
+    person.name= "John"
+    person.age= "30"
+    person.city= "New York"
+
  delete person.age;
  person.job = "Engineer"
  person.city = "San Francisco"
