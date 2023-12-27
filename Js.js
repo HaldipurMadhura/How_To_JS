@@ -4,7 +4,7 @@
 let fruits = [ ]
 fruits.push =("apple","banana","orange")
 
-let newFruits= fruits.splice(0, 1);
+fruits.splice(0, 1);
 
 fruits.push("grape")
 
