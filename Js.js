@@ -1,10 +1,10 @@
 //console.log("hello!!!")
 
 //--------------Assignment 1 ------------
+let fruits = [ ]
+fruits.push =("apple","banana","orange")
 
-let fruits =["apple","banana","orange"]
-
-let newFruits = fruits.splice(0, 1);
+let newFruits= fruits.splice(0, 1);
 
 fruits.push("grape")
 
