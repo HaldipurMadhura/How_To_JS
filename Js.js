@@ -2,7 +2,7 @@
 
 //--------------Assignment 1 ------------
 let fruits = [ ]
-fruits.push =("apple","banana","orange")
+fruits.push("apple","banana","orange")
 
 fruits.splice(0, 1);
 
